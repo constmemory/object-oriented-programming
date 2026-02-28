@@ -5,7 +5,7 @@ and display the result formatted to two decimal places.
 */
 
 import java.util.*;
-public class pr1 {
+public class p1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
