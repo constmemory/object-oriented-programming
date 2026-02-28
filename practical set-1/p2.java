@@ -7,7 +7,7 @@ D = ad − bc, Dx = ed − bf, Dy = af − ce, x = Dx / D, y = Dy / D
 */
 
 import java.util.*;
-public class pr2 {
+public class p2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
