@@ -1,3 +1,8 @@
+/*
+Given an interface Classify with a method String getDivision(double average). Implement this
+getDivision method in a class Result such that it returns "First Division" if the average is 60 or more.
+*/
+
 interface Classify {
     String getDivision(double average);
 }
